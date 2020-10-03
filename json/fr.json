@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Aprungfoster",
+			"Florian COLLIN",
 			"Gomoko",
 			"Immortal",
 			"Josee Desharnais",
@@ -225,7 +226,7 @@
 	"Music.setInstrument": "règle l’instrument à : %1",
 	"Music.startTooltip": "Exécute les blocs à l’intérieur quand le bouton « Lancer le programme » est cliqué.",
 	"Music.start": "quand %1 est cliqué",
-	"Music.pitchTooltip": "Une note (la note  C4 ou « do » de base vaut 7).",
+	"Music.pitchTooltip": "Une note (do4 vaut 7).",
 	"Music.firstPart": "première partie",
 	"Music.piano": "piano",
 	"Music.trumpet": "trompette",
@@ -244,7 +245,7 @@
 	"Music.helpUseInstruments": "La musique rendra mieux si vous utilisez un instrument différent dans chaque bloc de démarrage.",
 	"Music.helpText1": "Composez les quatre premières notes de « Frère Jacques ».",
 	"Music.helpText2a": "Une « fonction » vous permet de regrouper ensemble des blocs, puis de les exécuter plus d’une fois.",
-	"Music.helpText2b": "Créez une fonction pour jouer les quatre premières notes de « Frère Jacques ». Lancez cette fonction deux fois. N’ajoutez pas d’autres blocs de note.",
+	"Music.helpText2b": "Créez une fonction pour jouer les quatre premières notes de « Frère Jacques ». Lancez cette fonction deux fois. N’ajoutez pas d’autres blocs de notes.",
 	"Music.helpText3": "Créez une deuxième fonction pour la partie suivante de « Frère Jacques ». La dernière note est plus longue.",
 	"Music.helpText4": "Créez une troisième fonction pour la partie qui suit de « Frère Jacques ». Les quatre premières notes sont plus courtes.",
 	"Music.helpText5": "Terminez l’air complet de « Frère Jacques ».",
@@ -264,6 +265,7 @@
 	"Pond.speedTooltip": "Renvoie la vitesse actuelle du joueur (0 est à l’arrêt, 100 est à pleine vitesse).",
 	"Pond.locXTooltip": "Renvoie la coordonnée X du joueur (0 est le bord gauche, 100 le bord droit).",
 	"Pond.locYTooltip": "Renvoie la coordonnée Y du joueur (0 est le bord du bas, 100 est le bord du haut).",
+	"Pond.logTooltip": "Imprime un nombre sur la console de votre navigateur.",
 	"Pond.docsTooltip": "Affiche la documentation sur la langue.",
 	"Pond.documentation": "Documentation",
 	"Pond.playerName": "Joueur",
